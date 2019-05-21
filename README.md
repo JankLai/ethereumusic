@@ -11,6 +11,6 @@
 
 check out this link:
 [https://www.ethereumusic.xyz](https://www.ethereumusic.xyz)
-###1.请使用谷歌浏览器或任一支持MetaMask插件的浏览器
-###2.请在浏览器安装MetaMask插件，并注册一个账号。
-###3.使用Ropston测试网络（由于本应用的合约部署在此测试网络），并申请测试以太币
+### 1.请使用谷歌浏览器或任一支持MetaMask插件的浏览器
+### 2.请在浏览器安装MetaMask插件，并注册一个账号。
+### 3.使用Ropston测试网络（由于本应用的合约部署在此测试网络），并申请测试以太币
