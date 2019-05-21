@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>music app in ethereum</title>
+    <link rel="shortcut icon" href="img/ethereum.ico" />
+</head>
+<body>
+    <input type="text" id="addValue" placehoder="input a musicId"><input type="button" id="listen" value="listen">
+    <input type="button" id="download" value="download">
+    <div id="txStatus"></div>
+    <br>
+    <input type="text" id="musicId"><input type="button" id="search" value="search">
+    <div>listenCount:<p id="listenCount"></p>   downloadCount:<P id="downloadCount"></P></div>
+    <div id="eventId"></div>
+    <div id="eventCount"></div>
+
+    <script src="./js/web3.min.js"></script>
+    <script src="./js/jquery-3.3.1.min.js"></script>
+    <script src="./js/index.js"></script>
+    <script src="./js/abi.js"></script>
+</body>
+</html>
