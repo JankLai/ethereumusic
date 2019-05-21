@@ -4,10 +4,10 @@
 
 
 
-##一、简介##
+## 一、简介##
 基于以太坊的去中心化应用，包含Solidity和约以及前端web3js的demo脚本
 
-##二、访问##
+## 二、访问##
 
 check out this link:
 [https://www.ethereumusic.xyz](https://www.ethereumusic.xyz)
